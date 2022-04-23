@@ -1,7 +1,7 @@
 ## vested-BE
 
 This project is the back end RESTful API created in conjunction with the Front End repo for the Vested App, developed as a final project for the Northcoders Bootcamp.
-The back-end repository is available at: https://github.com/LiamCurran95/vested-BE
+The back-end repository is available at: https://github.com/mshabuo/vested-BE
 
 ## End Points
 
